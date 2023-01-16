@@ -14,6 +14,12 @@ By the end of this EDA, this analyst hopes to provide insights and hopefully cou
 ## Dataframe description:
 Crime incident reports are provided by Boston Police Department (BPD) to document the initial details surrounding an incident to which BPD officers respond. This is a dataset containing records from the new crime incident report system, which includes a reduced set of fields focused on capturing the type of incident as well as when and where it occurred.
 
+## Files Explanation
+- Crimes in Boston EDA Jupyter EDA PDF - presentation file in PDF form
+- README file
+- Capstone 2.ipynb - code, visualization and analysis using Python in Jupyter Notebook
+- crime_cleaned.csv
+
 ## Provided by:
 Analyze Boston
 
