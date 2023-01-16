@@ -18,7 +18,7 @@ Crime incident reports are provided by Boston Police Department (BPD) to documen
 - Crimes in Boston EDA Jupyter EDA PDF - presentation file in PDF form
 - README file
 - Capstone 2.ipynb - code, visualization and analysis using Python in Jupyter Notebook
-- crime_cleaned.csv
+- Boston Crime Clean.xls - the file used for visualization using Tableau
 
 ## Provided by:
 Analyze Boston
